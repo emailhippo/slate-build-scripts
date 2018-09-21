@@ -19,7 +19,6 @@ current_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
 tmp_file=/tmp/api.json
 tmp_index_md_file=/tmp/index.html.md
 opts_file=$current_dir/opts.json
-#logo_url=https://s3.amazonaws.com/emailhippo/bizbranding/co.logos/eh-on-dark-218x45.png
 tmp_logo=/tmp/logo.png
 github_slate_local=~/slate
 
