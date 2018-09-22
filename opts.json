@@ -3,17 +3,8 @@
 		{"shell":"Shell"},
 		{"http":"HTTP"},
 		{"php":"PHP"},
-		{"javascript--nodejs":"Node.js"},
 		{"javascript":"JavaScript"},
 		{"java":"Java"},
-		{"go":"Go"},
-		{"python":"Python"},
-		{"ruby":"Ruby"}
-	],
-	"language_clients":[
-		{"c":"c"},
-		{"csharp":"C#"},
-		{"go","Go"},
-		{"javascript":JavaScript"}
+		{"python":"Python"}
 	]
 }
