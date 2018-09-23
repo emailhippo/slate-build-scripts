@@ -1,10 +1,11 @@
 {
 	"language_tabs":[
-		{"shell":"Shell"},
+		{"shell":"cURL"},
 		{"http":"HTTP"},
-		{"php":"PHP"},
 		{"javascript":"JavaScript"},
 		{"java":"Java"},
-		{"python":"Python"}
+		{"ruby":"Ruby"},
+		{ "javascript--nodejs": "Node.JS" },
+		{"go":"Go"}
 	]
 }
